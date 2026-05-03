@@ -1,4 +1,4 @@
-\# Server Stats
+# Server Stats
 
 
 
@@ -21,4 +21,5 @@ chmod +x server-stats.sh
 
 
 Built this as my first bash scripting project, got to learn Linux system commands like free, df, ps and grep.
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
 
