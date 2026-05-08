@@ -6,3 +6,4 @@
 
 2. [Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)
 
+3. [Nginx Log Analyzer](https://roadmap.sh/projects/nginx-log-analyser)
