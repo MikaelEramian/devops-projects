@@ -7,3 +7,5 @@
 3. [Nginx Log Analyzer](https://roadmap.sh/projects/nginx-log-analyser)
 
 4. [(CI/CD) GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
+5. [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile)
