@@ -9,3 +9,5 @@
 4. [(CI/CD) GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
 5. [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile)
+
+6. [Netdata Simple Monitoring](https://roadmap.sh/projects/simple-monitoring-dashboard)
